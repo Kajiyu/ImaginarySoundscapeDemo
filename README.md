@@ -1,5 +1,4 @@
 # ImaginarySoundscape Demo
-![Top](http://qosmo.jp/article/wp-content/uploads/sites/3/2018/01/soundscape.png)
 
 ## Overview
 - This is the demo repository of our project, "[Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)".
