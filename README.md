@@ -6,6 +6,9 @@
 - Our model is based on [SoundNet](), proposed in 2016.
 - Our code is written at Python3 and Keras.
 
+## How to use
+- You can easily try with Jupyter Notebook. Please open `playground.ipynb`
+
 ## References
 - [Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)
 - [Another demo of Imaginary Soundscape](http://imaginarysoundscape2.qosmo.jp/)
@@ -14,6 +17,7 @@
 
 ## Prerequisites
 - Python 3
+- Jupyter Notebook
 - Tensorflow
 - Keras
 - Linux or MacOSX
