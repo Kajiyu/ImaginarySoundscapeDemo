@@ -1,9 +1,9 @@
 # ImaginarySoundscape Demo
 
 ## Overview
-- This is the demo repository of our project, "Imaginary Soundscape".
-- At the original website, you can freely walk around Google Street View and immerse themselves into imaginary soundscape generated with deep learning models, but at this repository you can try the process to estimate the best sound from an image data.
-- Our model is based on [SoundNet](), proposed in 2016.
+- This is the demo repository of our project, "[Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)".
+- At the original website, you can freely walk around Google Street View, but at this repository you can try the process to estimate the best sound from an image data.
+- Our model is based on [SoundNet](http://soundnet.csail.mit.edu/), proposed in 2016.
 - Our code is written at Python3 and Keras.
 
 ## How to use
