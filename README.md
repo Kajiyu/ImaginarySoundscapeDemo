@@ -19,10 +19,11 @@
 ![assets/model.jpg](assets/model.jpg)
 
 ## Prerequisites
-- Python 3
+- Python 3 (>= 3.6)
 - Jupyter Notebook
-- Tensorflow
-- Keras
+- keras (2.x)
+- librosa
+- scipy
 - Linux or MacOSX
 
 ## Credits
