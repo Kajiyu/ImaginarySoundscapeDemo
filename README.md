@@ -1,4 +1,5 @@
 # ImaginarySoundscape Demo
+![Top](http://qosmo.jp/article/wp-content/uploads/sites/3/2018/01/soundscape.png)
 
 ## Overview
 - This is the demo repository of our project, "[Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)".
@@ -7,13 +8,16 @@
 - Our code is written at Python3 and Keras.
 
 ## How to use
-- You can easily try with Jupyter Notebook. Please open `playground.ipynb`
+1. Please download [this file](https://github.com/Kajiyu/ImaginarySoundscapeDemo/releases/download/v1.0.0/data.zip) and unzip into the current directory.
+2. You can easily try with Jupyter Notebook. Please open `playground.ipynb`
 
 ## References
 - [Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)
 - [Another demo of Imaginary Soundscape](http://imaginarysoundscape2.qosmo.jp/)
 - [Short paper at NIPS2017 Workshop](https://nips2017creativity.github.io/doc/Imaginary_Soundscape.pdf)
 
+## Model
+![assets/model.jpg](assets/model.jpg)
 
 ## Prerequisites
 - Python 3
