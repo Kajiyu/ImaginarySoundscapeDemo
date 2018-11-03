@@ -1,19 +1,22 @@
-# ImaginarySoundscape Demo
+# Imaginary Soundscape Demo
 
 ## Overview
-- This is the demo repository of our project, "[Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)".
-- At the original website, you can freely walk around Google Street View, but at this repository you can try the process to estimate the best sound from an image data.
+- This is a demo repository of "[Imaginary Soundscape](http://imaginarysoundscape2.qosmo.jp/)" project by [Qosmo, Inc.](http://qosmo.jp/).
+- On [the project website](http://imaginarysoundscape2.qosmo.jp), you can add AI-generated soundscape to any images you upload or specify. You can try the same process with this repository.
 - Our model is based on [SoundNet](http://soundnet.csail.mit.edu/), proposed in 2016.
-- Our code is written at Python3 and Keras.
+- Our code is written in Python3 using keras and librosa.
 
 ## How to use
-1. Please download [this file](https://github.com/Kajiyu/ImaginarySoundscapeDemo/releases/download/v1.0.0/data.zip) and unzip into the current directory.
-2. You can easily try with Jupyter Notebook. Please open `playground.ipynb`
+1. Please download [this zipped data file](https://github.com/Kajiyu/ImaginarySoundscapeDemo/releases/download/v1.0.0/data.zip) and unzip it into the same directory as `playground.ipynb`.
+2. Open `playground.ipynb` with Jupyter notebook.
 
 ## References
-- [Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)
-- [Another demo of Imaginary Soundscape](http://imaginarysoundscape2.qosmo.jp/)
-- [Short paper at NIPS2017 Workshop](https://nips2017creativity.github.io/doc/Imaginary_Soundscape.pdf)
+- [Imaginary Soundscape website](http://imaginarysoundscape2.qosmo.jp/)
+- [Original demo of Imaginary Soundscape](http://imaginarysoundscape.qosmo.jp/)
+- [Short paper at NIPS2017 Workshop](https://nips2017creativity.github.io/doc/Imaginary_Soundscape.pdf)  
+"Imaginary Soundscape: Cross-Modal Approach to Generate Pseudo Sound Environments"  
+Yuma Kajihara, Shoya Dozono, Nao Tokui
+- [Imaginary Soundscape — Take a walk in soundscapes “imagined” by AI](https://medium.com/@naotokui/imaginary-soundscape-take-a-walk-in-soundscapes-imagined-by-ai-f8b99f82eefb) - A post on medium.com
 
 ## Model
 ![assets/model.jpg](assets/model.jpg)
@@ -27,6 +30,6 @@
 - Linux or MacOSX
 
 ## Credits
-- Concept/Machine Learning/Music: Nao Tokui
-- Machine Learning: Yuma Kajihara
-- UI Design/Programming: Shoya Dozono
+- Concept/Machine Learning: Nao Tokui @naotokui
+- Machine Learning: Yuma Kajihara @kajiyu
+- UI Design/Programming: Shoya Dozono and Robin Jungers @robinjungers 
